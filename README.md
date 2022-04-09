@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif" width="100"/>
 </div>
+
+### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chiragak&theme=dark&background=000000)
 <!--
 **chiragak/chiragak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
