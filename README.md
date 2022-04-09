@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hi there 👋
+<img src="https://media.giphy.com/media/JlVkLKuxRSvLy/giphy.gif">
 <!--
 **chiragak/chiragak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
