@@ -10,9 +10,11 @@
 <p align="center">
 <a href="https://github.com/chiragak">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chiragak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chiragak&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragak&layout=compact&theme=algolia)
 <!--
 **chiragak/chiragak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
